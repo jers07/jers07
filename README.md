@@ -6,10 +6,12 @@
 
 - Vivo en Colombia en la ciudad de Cucuta, Norte De Santander
 - Soy actualmente un estudiante de QA Automatizacion
+- Me encantan dos cosas la tecnologia y el Arte ~~un poco raro~~
 - Mi mejor forma de describirme es:
     - **proactivo**
     - **positivo**
     - **determinado**
+
 
 ## 💻 Experiencia
 
@@ -37,3 +39,7 @@
   </td>
  </tr>
 </table>
+
+## Contactame!
+<a target="_blank" href="https://www.linkedin.com/in/juan-francisco-rojas-sanchez-776530290/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:iamfranciscobtw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
