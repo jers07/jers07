@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 # Hola Soy Francisco Y soy estudiante de QA
-## Sobre Mi
+## 🌱 Sobre Mi
 <img src="https://img.shields.io/badge/Languages-English-red" /> <img src="https://img.shields.io/badge/Languages-Spanish-red" />
 
 - Vivo en Colombia en la ciudad de Cucuta, Norte De Santander
@@ -29,17 +29,15 @@
 
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jers07&theme=dracula" />
- </br>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jers07&theme=dracula"/>
- </br>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jers07&theme=dracula" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=jers07&theme=dracula" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=jers07&theme=dracula"/>
+  <img width="31.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jers07&theme=dracula" />
 </p>
      
   </td>
  </tr>
 </table>
 
-## Contactame!
+## 📫 Contactame!
 <a target="_blank" href="https://www.linkedin.com/in/juan-francisco-rojas-sanchez-776530290/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:iamfranciscobtw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
