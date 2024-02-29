@@ -29,9 +29,9 @@
 
 
 <p align="left">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=jers07&theme=dracula" />
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=jers07&theme=dracula"/>
-  <img width="31.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jers07&theme=dracula" />
+  <img width="31.5%" src="https://github-readme-stats.vercel.app/api?username=jers07&theme=dracula" />
+  <img width="34.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=jers07&theme=dracula"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jers07&theme=dracula" />
 </p>
      
   </td>
