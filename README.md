@@ -13,3 +13,18 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+
+## 📄📜 Stats
+
+
+<p align="left">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jers07&theme=chartreuse-dark" />
+ </br>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jers07&theme=chartreuse-dark"/>
+ </br>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jers07&theme=chartreuse-dark" />
+</p>
+     
+  </td>
+ </tr>
+</table>
